@@ -25,5 +25,6 @@
 				code="master.menu.anonymous.daniel-favourite-link"
 				action="http://www.twitter.com/" />
 		</acme:menu-option>
+	</acme:menu-left>
 </acme:menu-bar>
 
